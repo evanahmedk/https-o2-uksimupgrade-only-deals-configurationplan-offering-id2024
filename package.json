@@ -1,6 +1,8 @@
 {
-    "type": "module",
-    "dependencies": {
-        "node-fetch": "^3.3.2"
-    }
+  "name": "o2-login-bot",
+  "version": "1.0.0",
+  "main": "api/server.js",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
